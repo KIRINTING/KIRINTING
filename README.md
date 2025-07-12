@@ -5,8 +5,8 @@
 
 ## 🌐 About Me
 
-- 🎓 Computer Science Student @ University
-- 🧑‍💻 Specialize in **Full-stack development**
+- 🎓 Computer Science @ University
+- 🧑‍💻 Specialize in **Full-stack development** (Tyscript JavaScript React Nextjs and TailwindCSS)
 - 🔐 Learning about **NextJS**, **Backend Design**, and **Game Design**
 - 🌎 Based in **Chiang Mai, Thailand**
 - 🖥 Portfolio:
@@ -19,12 +19,9 @@
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,js,lua,dart" />
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,angular" />
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,php,py" />
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,unity,visualstudio,vscode,github,flutter," />
   
