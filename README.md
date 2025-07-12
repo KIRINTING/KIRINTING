@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KIRINTING&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIRINTING&layout=compact&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KIRINTING&theme=dark&border_radius=4.7&mode=weekly" />
 </p>
 
 <p align="center">
