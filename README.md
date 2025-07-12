@@ -18,15 +18,16 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,js" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,js,lua,dart" />
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,angular" />
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,php,py" />
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vercel,unity,visualstudio,vscode,github,flutter," />
+  
 </p>
 
 ---
