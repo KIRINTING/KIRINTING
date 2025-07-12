@@ -20,7 +20,7 @@
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=c,cs,cpp,ts,js,lua,dart" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,angular" />
-  <img src="https://skillicons.dev/icons?i=nodejs,php,py" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,py,cmake" />
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,figma,vercel,unity,visualstudio,vscode,github,flutter," />
