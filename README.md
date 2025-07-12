@@ -1,5 +1,5 @@
 <h1 align="center">💻 Hey! I'm Kanchitpol Srijanprom</h1>
-<h3 align="center">Limit? Nah, it's Limitless! Write Limitless Code, Create Limitless Futures.</h3>
+<h3 align="center">Passionate Software Developer committed to creating innovative solutions without boundaries. Focused on writing clean, scalable code that drives future-ready applications.</h3>
 
 ---
 
