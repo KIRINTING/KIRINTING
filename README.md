@@ -6,7 +6,7 @@
 ## 🌐 About Me
 
 - 🎓 Computer Science @ University
-- 🧑‍💻 Specialize in **Full-stack development** (Tyscript JavaScript React Nextjs and TailwindCSS)
+- 🧑‍💻 Specialize in **Full-stack development** (Tyscript PHP Laravel Nextjs and TailwindCSS)
 - 🔐 Learning about **NextJS**, **Backend Design**, and **Game Design**
 - 🌎 Based in **Chiang Mai, Thailand**
 - 🖥 Portfolio:
